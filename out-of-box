@@ -16,3 +16,8 @@ apt-get upgrade -y
 
 apt-get install ssh -y
 
+
+# Add itself to netbox via API call. This is a work in progress
+
+#
+
